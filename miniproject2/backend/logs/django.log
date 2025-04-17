@@ -7600,3 +7600,27 @@ INFO 2025-04-17 22:55:10,900 basehttp "GET /resumes/ HTTP/1.1" 200 14
 INFO 2025-04-17 22:55:10,900 basehttp "GET /resumes/ HTTP/1.1" 200 14
 INFO 2025-04-17 22:55:10,935 basehttp "GET /resumes/ HTTP/1.1" 200 14
 INFO 2025-04-17 22:55:10,935 basehttp "GET /resumes/ HTTP/1.1" 200 14
+WARNING 2025-04-17 23:12:37,276 log Bad Request: /auth/register/
+WARNING 2025-04-17 23:12:37,276 log Bad Request: /auth/register/
+WARNING 2025-04-17 23:12:37,277 basehttp "POST /auth/register/ HTTP/1.1" 400 107
+WARNING 2025-04-17 23:12:37,277 basehttp "POST /auth/register/ HTTP/1.1" 400 107
+INFO 2025-04-17 23:12:45,740 basehttp "POST /auth/login/ HTTP/1.1" 200 513
+INFO 2025-04-17 23:12:45,740 basehttp "POST /auth/login/ HTTP/1.1" 200 513
+INFO 2025-04-17 23:12:46,818 basehttp "GET /jobs/ HTTP/1.1" 200 334
+INFO 2025-04-17 23:12:46,818 basehttp "GET /jobs/ HTTP/1.1" 200 334
+INFO 2025-04-17 23:13:08,878 basehttp "POST /jobs/create/ HTTP/1.1" 201 155
+INFO 2025-04-17 23:13:08,878 basehttp "POST /jobs/create/ HTTP/1.1" 201 155
+INFO 2025-04-17 23:13:15,640 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-17 23:13:15,640 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-17 23:13:15,798 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-17 23:13:15,798 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-17 23:13:26,203 basehttp "OPTIONS /auth/logout/ HTTP/1.1" 200 0
+INFO 2025-04-17 23:13:26,203 basehttp "OPTIONS /auth/logout/ HTTP/1.1" 200 0
+WARNING 2025-04-17 23:13:26,208 log Forbidden: /auth/logout/
+WARNING 2025-04-17 23:13:26,208 log Forbidden: /auth/logout/
+WARNING 2025-04-17 23:13:26,209 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-17 23:13:26,209 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+INFO 2025-04-17 23:14:27,142 basehttp "POST /auth/login/ HTTP/1.1" 200 513
+INFO 2025-04-17 23:14:27,142 basehttp "POST /auth/login/ HTTP/1.1" 200 513
+INFO 2025-04-17 23:14:27,874 basehttp "POST /auth/login/ HTTP/1.1" 200 513
+INFO 2025-04-17 23:14:27,874 basehttp "POST /auth/login/ HTTP/1.1" 200 513
