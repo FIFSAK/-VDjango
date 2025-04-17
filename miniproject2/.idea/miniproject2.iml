@@ -19,7 +19,7 @@
       <excludeFolder url="file://$MODULE_DIR$/backend/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/myvenv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 virtualenv at C:\Users\anuar\OneDrive\Документы\GitHub\-VDjango\miniproject2\.venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 virtualenv at C:\-VDjango\miniproject2\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
