@@ -1,0 +1,872 @@
+INFO 2025-04-08 22:20:18,638 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:20:18,638 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:21:26,217 basehttp "OPTIONS /auth/register/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:21:26,217 basehttp "OPTIONS /auth/register/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:21:28,300 basehttp "POST /auth/register/ HTTP/1.1" 201 84
+INFO 2025-04-08 22:21:28,300 basehttp "POST /auth/register/ HTTP/1.1" 201 84
+INFO 2025-04-08 22:23:02,317 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:23:02,317 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:23:03,927 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:23:03,927 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:23:10,976 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:23:10,976 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:23:12,372 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:23:12,372 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:23:57,490 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:23:57,490 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:23:58,329 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:23:58,329 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:24:18,434 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:24:18,434 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:24:19,237 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:24:19,237 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:24:39,379 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:24:39,379 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:24:40,321 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:24:40,321 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:24:50,847 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:24:50,847 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:24:51,847 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:24:51,847 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:26:11,624 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:26:11,624 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:26:12,502 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:26:12,502 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:26:22,974 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:26:22,974 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:26:23,852 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:26:23,852 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:26:44,753 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:26:44,753 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:26:46,154 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:26:46,154 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:36:45,788 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:36:45,788 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:36:47,830 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:36:47,830 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:37:01,274 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:37:01,274 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:37:02,839 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:37:02,839 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:37:30,482 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:37:30,482 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-08 22:38:20,834 log Bad Request: /auth/register/
+WARNING 2025-04-08 22:38:20,834 log Bad Request: /auth/register/
+WARNING 2025-04-08 22:38:20,834 basehttp "POST /auth/register/ HTTP/1.1" 400 107
+WARNING 2025-04-08 22:38:20,834 basehttp "POST /auth/register/ HTTP/1.1" 400 107
+INFO 2025-04-08 22:38:21,104 basehttp "POST /auth/register/ HTTP/1.1" 201 84
+INFO 2025-04-08 22:38:21,104 basehttp "POST /auth/register/ HTTP/1.1" 201 84
+INFO 2025-04-08 22:39:12,768 basehttp "GET /auth/verify-email/?token=7df3e33f-c822-49b4-b55d-7170cdbb1fe2 HTTP/1.1" 200 41
+INFO 2025-04-08 22:39:12,768 basehttp "GET /auth/verify-email/?token=7df3e33f-c822-49b4-b55d-7170cdbb1fe2 HTTP/1.1" 200 41
+WARNING 2025-04-08 22:39:12,874 log Bad Request: /auth/verify-email/
+WARNING 2025-04-08 22:39:12,874 log Bad Request: /auth/verify-email/
+WARNING 2025-04-08 22:39:12,874 basehttp "GET /auth/verify-email/?token=7df3e33f-c822-49b4-b55d-7170cdbb1fe2 HTTP/1.1" 400 25
+WARNING 2025-04-08 22:39:12,874 basehttp "GET /auth/verify-email/?token=7df3e33f-c822-49b4-b55d-7170cdbb1fe2 HTTP/1.1" 400 25
+INFO 2025-04-08 22:39:49,269 basehttp "OPTIONS /auth/login/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:39:49,269 basehttp "OPTIONS /auth/login/ HTTP/1.1" 200 0
+WARNING 2025-04-08 22:39:49,978 log Unauthorized: /auth/login/
+WARNING 2025-04-08 22:39:49,978 log Unauthorized: /auth/login/
+WARNING 2025-04-08 22:39:49,978 basehttp "POST /auth/login/ HTTP/1.1" 401 43
+WARNING 2025-04-08 22:39:49,978 basehttp "POST /auth/login/ HTTP/1.1" 401 43
+WARNING 2025-04-08 22:40:11,076 log Unauthorized: /auth/login/
+WARNING 2025-04-08 22:40:11,076 log Unauthorized: /auth/login/
+WARNING 2025-04-08 22:40:11,076 basehttp "POST /auth/login/ HTTP/1.1" 401 43
+WARNING 2025-04-08 22:40:11,076 basehttp "POST /auth/login/ HTTP/1.1" 401 43
+WARNING 2025-04-08 22:41:37,524 log Bad Request: /auth/login/
+WARNING 2025-04-08 22:41:37,524 log Bad Request: /auth/login/
+WARNING 2025-04-08 22:41:37,524 basehttp "POST /auth/login/ HTTP/1.1" 400 61
+WARNING 2025-04-08 22:41:37,524 basehttp "POST /auth/login/ HTTP/1.1" 400 61
+WARNING 2025-04-08 22:41:45,761 log Bad Request: /auth/login/
+WARNING 2025-04-08 22:41:45,761 log Bad Request: /auth/login/
+WARNING 2025-04-08 22:41:45,761 basehttp "POST /auth/login/ HTTP/1.1" 400 61
+WARNING 2025-04-08 22:41:45,761 basehttp "POST /auth/login/ HTTP/1.1" 400 61
+INFO 2025-04-08 22:45:03,427 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:45:03,427 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:45:05,111 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:45:05,111 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:46:54,499 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:46:54,499 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 22:46:56,094 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:46:56,094 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:47:31,324 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:47:31,324 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 22:48:18,225 basehttp "POST /auth/register/ HTTP/1.1" 201 83
+INFO 2025-04-08 22:48:18,225 basehttp "POST /auth/register/ HTTP/1.1" 201 83
+INFO 2025-04-08 22:48:24,692 basehttp "GET /auth/verify-email/?token=4d154695-c6b5-41fb-b966-6b5535767a65 HTTP/1.1" 200 41
+INFO 2025-04-08 22:48:24,692 basehttp "GET /auth/verify-email/?token=4d154695-c6b5-41fb-b966-6b5535767a65 HTTP/1.1" 200 41
+INFO 2025-04-08 22:48:24,692 basehttp "GET /auth/verify-email/?token=4d154695-c6b5-41fb-b966-6b5535767a65 HTTP/1.1" 200 41
+INFO 2025-04-08 22:48:24,692 basehttp "GET /auth/verify-email/?token=4d154695-c6b5-41fb-b966-6b5535767a65 HTTP/1.1" 200 41
+INFO 2025-04-08 22:48:35,735 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 22:48:35,735 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 22:48:36,861 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 22:48:36,861 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 22:48:36,861 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 22:48:36,861 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 22:49:26,791 basehttp "OPTIONS /resumes/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:49:26,791 basehttp "OPTIONS /resumes/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:49:26,791 basehttp "OPTIONS /resumes/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:49:26,791 basehttp "OPTIONS /resumes/ HTTP/1.1" 200 0
+INFO 2025-04-08 22:49:26,861 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-08 22:49:26,861 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-08 22:49:26,861 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-08 22:49:26,861 basehttp "GET /resumes/ HTTP/1.1" 200 14
+INFO 2025-04-08 23:04:24,248 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:04:24,248 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:05:37,625 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:05:37,625 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:06:59,692 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:06:59,692 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:07:28,961 basehttp "OPTIONS /auth/login/ HTTP/1.1" 200 0
+INFO 2025-04-08 23:07:28,961 basehttp "OPTIONS /auth/login/ HTTP/1.1" 200 0
+ERROR 2025-04-08 23:07:29,004 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:07:29,004 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:07:29,008 basehttp "POST /auth/login/ HTTP/1.1" 500 112530
+ERROR 2025-04-08 23:07:29,008 basehttp "POST /auth/login/ HTTP/1.1" 500 112530
+INFO 2025-04-08 23:09:16,291 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:09:16,291 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:09:18,688 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:09:18,688 autoreload Watching for file changes with StatReloader
+ERROR 2025-04-08 23:09:27,144 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:09:27,144 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:09:27,149 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:09:27,149 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+INFO 2025-04-08 23:10:21,174 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:10:21,174 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:10:24,504 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:10:24,504 autoreload Watching for file changes with StatReloader
+ERROR 2025-04-08 23:10:34,721 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:10:34,721 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:10:34,721 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:10:34,721 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+INFO 2025-04-08 23:12:47,930 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:12:47,930 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:12:49,115 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:12:49,115 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:12:53,190 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:12:53,190 autoreload Watching for file changes with StatReloader
+ERROR 2025-04-08 23:13:07,700 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:13:07,700 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:13:07,704 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:13:07,704 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:13:13,558 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:13:13,558 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:13:13,558 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:13:13,558 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+INFO 2025-04-08 23:13:59,580 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:13:59,580 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:14:00,455 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:14:00,455 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:15:14,635 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:15:14,635 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:15:15,764 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:15:15,764 autoreload Watching for file changes with StatReloader
+ERROR 2025-04-08 23:16:20,378 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:16:20,378 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:16:20,384 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:16:20,384 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+INFO 2025-04-08 23:19:37,184 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:19:37,184 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:19:38,730 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:19:38,730 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-08 23:19:44,294 log Forbidden: /auth/login/
+WARNING 2025-04-08 23:19:44,294 log Forbidden: /auth/login/
+WARNING 2025-04-08 23:19:44,294 basehttp "POST /auth/login/ HTTP/1.1" 403 43
+WARNING 2025-04-08 23:19:44,294 basehttp "POST /auth/login/ HTTP/1.1" 403 43
+INFO 2025-04-08 23:19:55,794 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:19:55,794 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:19:57,794 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:19:57,794 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:19:57,874 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:19:57,874 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:20:13,348 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:20:13,348 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:20:14,328 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:20:14,328 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:20:16,014 basehttp "OPTIONS /auth/logout/ HTTP/1.1" 200 0
+INFO 2025-04-08 23:20:16,014 basehttp "OPTIONS /auth/logout/ HTTP/1.1" 200 0
+WARNING 2025-04-08 23:20:16,014 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:20:16,014 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:20:16,014 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:20:16,014 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+ERROR 2025-04-08 23:20:20,109 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:20:20,109 log Internal Server Error: /auth/login/
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 92, in get_rate
+    return self.THROTTLE_RATES[self.scope]
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'login'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 503, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 422, in initial
+    self.check_throttles(request)
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\views.py", line 365, in check_throttles
+    if not throttle.allow_request(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 229, in allow_request
+    self.rate = self.get_rate()
+                ^^^^^^^^^^^^^^^
+  File "C:\Users\zhasl\AppData\Local\Programs\Python\Python311\Lib\site-packages\rest_framework\throttling.py", line 95, in get_rate
+    raise ImproperlyConfigured(msg)
+django.core.exceptions.ImproperlyConfigured: No default throttle rate set for 'login' scope
+ERROR 2025-04-08 23:20:20,114 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+ERROR 2025-04-08 23:20:20,114 basehttp "POST /auth/login/ HTTP/1.1" 500 112537
+INFO 2025-04-08 23:22:48,895 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:22:48,895 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\user_auth\views.py changed, reloading.
+INFO 2025-04-08 23:22:50,760 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:22:50,760 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:22:53,942 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:22:53,942 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:22:55,745 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:22:55,745 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:22:55,755 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:22:55,755 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:24:23,374 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:24:23,374 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-08 23:24:24,554 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:24:24,554 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:25:23,456 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\jobs\views.py changed, reloading.
+INFO 2025-04-08 23:25:23,456 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\jobs\views.py changed, reloading.
+INFO 2025-04-08 23:25:24,690 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:25:24,690 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:25:29,066 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\jobs\views.py changed, reloading.
+INFO 2025-04-08 23:25:29,066 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\jobs\views.py changed, reloading.
+INFO 2025-04-08 23:25:31,688 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:25:31,688 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-08 23:27:01,180 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:27:01,180 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:27:01,183 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:01,183 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+INFO 2025-04-08 23:27:08,123 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:27:08,123 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:27:09,347 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:27:09,347 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:27:09,347 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:27:09,347 basehttp "GET /jobs/ HTTP/1.1" 200 1620
+INFO 2025-04-08 23:27:22,263 basehttp "OPTIONS /resumes/ HTTP/1.1" 200 0
+INFO 2025-04-08 23:27:22,263 basehttp "OPTIONS /resumes/ HTTP/1.1" 200 0
+WARNING 2025-04-08 23:27:22,265 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:22,265 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:22,265 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:22,265 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:22,273 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:22,273 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:22,273 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:22,273 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:35,459 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:35,459 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:35,459 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:35,459 log Forbidden: /resumes/
+WARNING 2025-04-08 23:27:35,459 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:35,459 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:35,459 basehttp "GET /resumes/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:27:35,459 basehttp "GET /resumes/ HTTP/1.1" 403 58
+INFO 2025-04-08 23:29:17,599 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:29:17,599 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-08 23:29:27,170 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:29:27,170 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:29:27,170 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:29:27,170 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+INFO 2025-04-08 23:29:33,869 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:29:33,869 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:29:34,977 basehttp - Broken pipe from ('127.0.0.1', 49540)
+INFO 2025-04-08 23:29:34,977 basehttp - Broken pipe from ('127.0.0.1', 49540)
+WARNING 2025-04-08 23:29:46,534 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:29:46,534 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:29:46,534 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:29:46,534 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:29:52,773 log Forbidden: /auth/login/
+WARNING 2025-04-08 23:29:52,773 log Forbidden: /auth/login/
+WARNING 2025-04-08 23:29:52,773 basehttp "POST /auth/login/ HTTP/1.1" 403 43
+WARNING 2025-04-08 23:29:52,773 basehttp "POST /auth/login/ HTTP/1.1" 403 43
+INFO 2025-04-08 23:30:18,299 basehttp "POST /auth/login/ HTTP/1.1" 200 517
+INFO 2025-04-08 23:30:18,299 basehttp "POST /auth/login/ HTTP/1.1" 200 517
+INFO 2025-04-08 23:32:54,737 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:32:54,737 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:33:58,402 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\jobs\views.py changed, reloading.
+INFO 2025-04-08 23:33:58,402 autoreload E:\AdvancedDjango\Adv-Django2025\miniproject2\backend\jobs\views.py changed, reloading.
+INFO 2025-04-08 23:34:00,122 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:34:00,122 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:34:13,822 autoreload Watching for file changes with StatReloader
+INFO 2025-04-08 23:34:13,822 autoreload Watching for file changes with StatReloader
+WARNING 2025-04-08 23:34:32,238 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:34:32,238 log Forbidden: /auth/logout/
+WARNING 2025-04-08 23:34:32,242 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+WARNING 2025-04-08 23:34:32,242 basehttp "POST /auth/logout/ HTTP/1.1" 403 58
+INFO 2025-04-08 23:34:46,992 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:34:46,992 basehttp "POST /auth/login/ HTTP/1.1" 200 514
+INFO 2025-04-08 23:34:48,144 basehttp - Broken pipe from ('127.0.0.1', 49855)
+INFO 2025-04-08 23:34:48,144 basehttp - Broken pipe from ('127.0.0.1', 49855)
+INFO 2025-04-17 21:09:20,378 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:09:20,378 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:23:50,486 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:23:50,486 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:25:38,022 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:25:38,022 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:26:44,879 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:26:44,879 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:30:04,071 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:30:04,071 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:31:45,831 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:31:45,831 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:32:05,036 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:32:05,036 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:33:30,016 autoreload C:\Users\anuar\OneDrive\Документы\GitHub\-VDjango\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-17 21:33:30,016 autoreload C:\Users\anuar\OneDrive\Документы\GitHub\-VDjango\miniproject2\backend\mysite\settings.py changed, reloading.
+INFO 2025-04-17 21:33:32,977 autoreload Watching for file changes with StatReloader
+INFO 2025-04-17 21:33:32,977 autoreload Watching for file changes with StatReloader
